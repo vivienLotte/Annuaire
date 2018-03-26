@@ -19,6 +19,7 @@ public class CarnetService implements CarnetRepository{
 	
 	//GET
 	public List<Carnet> getAll() {
+		//salut
 		return this.listeCarnets;
 	}
 	
